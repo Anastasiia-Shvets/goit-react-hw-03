@@ -1,0 +1,35 @@
+.formConteiner {
+    width: 340px;
+    height: 212px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    padding: 25px;
+    margin-bottom: 25px;
+
+}
+
+.inputFormName {
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 25px;
+    display: flex;
+}
+
+.inputFormNumber {
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 25px;
+    display: flex;
+}
+
+.lableName {
+    display: flex;
+    justify-content: start;
+}
+
+.lableNumber {
+    display: flex;
+    justify-content: start;
+}
